@@ -1,0 +1,10 @@
+/Users/lmschless/Documents/Code stuff/C#_practice/Epicodus/phoneBook/bin/Debug/netcoreapp3.1/PhoneBook.deps.json
+/Users/lmschless/Documents/Code stuff/C#_practice/Epicodus/phoneBook/bin/Debug/netcoreapp3.1/PhoneBook.runtimeconfig.json
+/Users/lmschless/Documents/Code stuff/C#_practice/Epicodus/phoneBook/bin/Debug/netcoreapp3.1/PhoneBook.runtimeconfig.dev.json
+/Users/lmschless/Documents/Code stuff/C#_practice/Epicodus/phoneBook/bin/Debug/netcoreapp3.1/PhoneBook.dll
+/Users/lmschless/Documents/Code stuff/C#_practice/Epicodus/phoneBook/bin/Debug/netcoreapp3.1/PhoneBook.pdb
+/Users/lmschless/Documents/Code stuff/C#_practice/Epicodus/phoneBook/obj/Debug/netcoreapp3.1/PhoneBook.csprojAssemblyReference.cache
+/Users/lmschless/Documents/Code stuff/C#_practice/Epicodus/phoneBook/obj/Debug/netcoreapp3.1/PhoneBook.AssemblyInfoInputs.cache
+/Users/lmschless/Documents/Code stuff/C#_practice/Epicodus/phoneBook/obj/Debug/netcoreapp3.1/PhoneBook.AssemblyInfo.cs
+/Users/lmschless/Documents/Code stuff/C#_practice/Epicodus/phoneBook/obj/Debug/netcoreapp3.1/PhoneBook.dll
+/Users/lmschless/Documents/Code stuff/C#_practice/Epicodus/phoneBook/obj/Debug/netcoreapp3.1/PhoneBook.pdb
